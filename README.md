@@ -1,6 +1,6 @@
 # Egg timer in Angular
 
-Create an egg timer using Angular and RxJS (with NgRx as needed). This is an overview of the features, that is expected from the application.
+Create an egg timer using Angular and RxJS or Signals. This is an overview of the features, that is expected from the application.
 
 ## Functional requirements
 - Hard cooked egg timer.
@@ -12,5 +12,3 @@ Create an egg timer using Angular and RxJS (with NgRx as needed). This is an ove
 - Make the text `0:00` blink once the egg is cooked.
 - Restart the timer.
 
-## Bonus points
-- Implement using Signals (and/or ngrx/signals)
